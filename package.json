@@ -1,0 +1,24 @@
+{
+  "name": "tmyt-npm-crash-course",
+  "version": "1.0.0",
+  "description": "tutorial by traversy media on https://www.youtube.com/watch?v=jHDhaSSKmB0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "keywords": [],
+  "author": "MS00-GitIt",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MS00-GitIt/tmyt-npm-crash-course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MS00-GitIt/tmyt-npm-crash-course/issues"
+  },
+  "homepage": "https://github.com/MS00-GitIt/tmyt-npm-crash-course#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
